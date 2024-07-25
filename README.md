@@ -1,4 +1,4 @@
-# contact_card
+# George Ouma
 
 A new Flutter project.
 
